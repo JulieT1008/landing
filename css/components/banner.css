@@ -1,0 +1,20 @@
+.banner {
+  background-image: url(../../images/home6.jpeg);
+  background-position: center;
+  background-size: cover;
+  height: 480px;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 1px 3px 2px black;
+  padding-top: 250px;
+  font-size: 50px;
+}
+
+.banner p {
+  color: white;
+  text-shadow: 1px 3px 2px black;
+  padding-bottom: 20px;
+  text-align: left;
+}
